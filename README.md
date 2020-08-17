@@ -38,8 +38,8 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulgeorge92&layout=compact&hide=html" alt="paulgeorge92" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulgeorge92&show_icons=true" alt="paulgeorge92" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulgeorge92&layout=compact&hide=html" alt="paulgeorge92" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=paulgeorge92&show_icons=true" alt="paulgeorge92" />
 </p>
 <p>&nbsp;</p>
 
