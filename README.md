@@ -1,20 +1,30 @@
-### Hi there 👋, I am Paul
-#### I am SharePoint Developer and Front-End Enthusiast
-I have more than five years of experience in the field of SharePoint/ Web / Desktop Application Development. Specialized in HTML5, CSS & JavaScript and other front-end development frameworks. Professional in Corporate branding, Web Development, visualization, Web animations & Windows application development.
+<h1 align="center">Hi there 👋, I'm Paul George</h1>
+<h3 align="center">A SharePoint Developer by profession and Front-End Enthusiast</h3>
 
-Currently working as Senior SharePoint Developer focussed on client side scripting and development. I am an enthusiastic guy who loves to learn new things every moment in life because I do believe life is the best teacher.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulgeorge92" alt="paulgeorge92" /> </p>
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+- 🔭 I’m currently working on **Iatros**
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning NodeJs / React / Azure / 
-- 💬 Ask me about HTML/CSS/JavaScript/SharePoint 
+- 🌱 I’m currently learning **Azure, Flutter, Docker, ASP.Net Core**
 
+- 👯 I’m looking to collaborate on [Iatros](https://github.com/paulgeorge92/Iatros-Client)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/paulgeorge92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/paulgeorge92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/g.paul.92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/paulgeorge92/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/paul.george)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/paulgeorge)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.paul-george.me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg' alt='firefox' height='40'>](paulpullormadam)  
+- 💬 Ask me about **HTML5, CSS3, JavaScript, jQuery, Bootstrap, AngularJs, Vue, React, NodeJs, Express, Neo4j, Windows Forms(C#)**
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
+- 📫 How to reach me **hello@paul-george.me**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=paulgeorge92&show_icons=true)  
+- ⚡ Fun fact **I can drink more than 20 coffee a day**
 
-![Profile views](https://gpvc.arturio.dev/paulgeorge92)  
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulgeorge92&layout=compact&hide=html" alt="paulgeorge92" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulgeorge92&show_icons=true" alt="paulgeorge92" /></p>
+
+<p align="center">
+<a href="https://codepen.io/paul_george" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="paul_george" height="30" width="30" /></a>
+<a href="https://dev.to/paulgeorge92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="paulgeorge92" height="30" width="30" /></a>
+<a href="https://twitter.com/paul_george92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="paul_george92" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/paul-george" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="paul-george" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/paul-george" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="paul-george" height="30" width="30" /></a>
+<a href="https://fb.com/g.paul.92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="g.paul.92" height="30" width="30" /></a>
+<a href="https://instagram.com/paulgeorge_92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="paulgeorge_92" height="30" width="30" /></a>
+</p>
