@@ -17,26 +17,24 @@
 <h2>Skills:</h2>
 <h4>Front-end Technologies</h4>
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/html5.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/css3.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/javascript.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/typescript-icon.svg" alt="typescript" width="40" height="40"/> 
 </p>
 <h4>Front-end Frameworks and Libraries</h4>
 <p>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/jquery.svg" alt="jquery" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/angular.svg" alt="angularjs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/vue.svg" alt="vuejs" width="40" height="40"/>
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/d3.svg" alt="d3js" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/materialize.svg" alt="materialize" width="40" height="40"/>
 </p>
 <h4>Server Side and Backend Technologies</h4>
 <p>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/nodejs.svg" alt="express" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
