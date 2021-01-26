@@ -35,19 +35,19 @@
 <h4>Server Side and Backend Technologies</h4>
 <p>
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/nodejs.svg" alt="express" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" alt="dotnet" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" alt="csharp" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> 
 </p>
 <h4>Tools I use</h4>
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="gimp" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" alt="visualstudio" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Chrome_icon_%28September_2014%29.svg" alt="chrome" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" alt="firefox" width="40" height="40"/> 
 </p>
 <p>
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulgeorge92&layout=compact&hide=html" alt="paulgeorge92" />
