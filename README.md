@@ -1,4 +1,4 @@
-![Dataverse_scalable](https://github.com/user-attachments/assets/f2c52a52-b9a7-4cc7-adbd-2ba4dd653bcf)![PowerPlatform_scalable](https://github.com/user-attachments/assets/3b28977d-f915-40df-9fff-4eb8664526c7)<h1 align="center">Hi there 👋, I'm Paul George</h1>
+<h1 align="center">Hi there 👋, I'm Paul George</h1>
 <h3 align="center">A Power Platform Developer by profession and Front-End Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulgeorge92" alt="paulgeorge92" /> </p>
